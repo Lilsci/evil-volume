@@ -1,14 +1,12 @@
-# <your project's name>
-
-<!-- This README is the front door of your project: the gallery shows its first lines. -->
+# Evil Joke Button
 
 ## what it is
 
-<one or two sentences: what is your evil input?>
+a joke
 
 ## what input it collects
 
-<text? a volume? a phone number? brightness? a time? and how does it make that miserable?>
+mouseclick
 
 ## screenshot
 
@@ -17,7 +15,7 @@
 
 ## live
 
-https://<your-github-name>.github.io/<this-repo>/
+[https://<your-github-name>.github.io/<this-repo>/](https://lilsci.github.io/evil-volume/)
 
 ## how to run it
 
